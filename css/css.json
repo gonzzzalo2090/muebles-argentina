@@ -1,0 +1,16 @@
+		con el signo pesos 1 significa q ahi posiciona el cursor y luego con el 2
+	 \n es un salto de linea antes y despues le puse con shift salat de un lado al otro
+	 \t significa un tab un espacio indexar 
+{
+	"media queries" : {
+		"prefix": "mq",
+		"body": ["@media ( min-width: $1 ) {\n\t$2}"]	
+	},
+	
+}  
+
+
+
+	
+	
+	
